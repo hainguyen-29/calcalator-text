@@ -1,0 +1,21 @@
+*{
+	margin: auto;
+	padding: auto;
+}
+div.main{
+	width: 400px;
+	height: 300px;
+	border: 1px solid;
+	margin-top: 50px;
+}
+h1{
+	color: #EC15C1;
+	text-align: center;
+}
+table{
+	margin-top: 30px;
+}
+div.submit{
+	text-align: center;
+	margin-top: 20px;
+}
